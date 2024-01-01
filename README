@@ -1,0 +1,23 @@
+HUNTERS VS RABBIT
+A program that solves the hunters vs rabbit game, a simple game playable on a chess board.
+Game description:
+There are 4 hunters and 1 rabbit.
+The rabbit starts, then the other player may move with one of the hunters.
+This goes on until someone wins.
+There's no capture in this game.
+Starting position:
+8...R....
+7........
+6........
+5........
+4........
+3........
+2........
+1H.H.H.H.
+ abcdefgh
+The rabbit can move 1 diagonally in all 4 directions.
+The hunters move diagonally too, but they can only go forward (from 1-8).
+The rabbit wins, if it can reach row 1.
+The hunters win, if the rabbit doesn't have any legal moves.
+If both players play perfectly, the hunters win.
+
